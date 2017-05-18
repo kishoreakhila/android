@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Hand Clap</string>
+    <string name="title_activity_hand_clap_acitvity">HandClapAcitvity</string>
+</resources>
